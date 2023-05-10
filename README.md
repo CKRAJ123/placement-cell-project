@@ -1,6 +1,6 @@
 # placement-cell
 A web app where user can create account, manage students, schedule and allocate students to interviews, add scores & update results.
- * Hosted on railways app. Click [here](https://placementcell-information.onrender.com/)
+ * Hosted on render app. Click [here](https://placementcell-information.onrender.com/)
 
 ## Features:
   * Create account
